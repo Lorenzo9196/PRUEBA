@@ -40,7 +40,7 @@ En este documento se mostrará información sobre cómo se deben desaarrollar lo
   
 9.	BIBLIOGRAFÍA	
 
-## INFORME TÉCNICO INFORME TÉCNICO – Arquitectura del Diseño
+## INFORME TÉCNICO – Arquitectura del Diseño
 
 Tabla de ilustraciones 
 
